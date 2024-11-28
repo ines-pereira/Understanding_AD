@@ -23,7 +23,7 @@ More specifically, use: <https://julialang-s3.julialang.org/bin/winnt/x64/1.11/j
 We recommend that you accept the default installation options.
 
 In the Select Addition Tasks step, do not forget to select the Add Julia to PATH option. Failing to do so will force you to manually add the path in VScode later on.
-
+<br />
  
 ### 2. Installing the Visual Studio Code Programming Environment
  
@@ -32,8 +32,7 @@ Second, install Visual Studio Code: <https://code.visualstudio.com/>
 More specifically, use: <https://code.visualstudio.com/Download#>
 
 Again, we recommend that you accept the default installation options.
-
-
+<br />
 
 ### 3. Installing the Julia and Jupyter Extensions
 
@@ -45,6 +44,8 @@ In the extensions pane, type Julia into the search engine (on top) and select th
 Repeat this step for the Jupyter extension.
 
 When the installation completes, restart Visual Studio Code.
+<br />
+
 
 ### 4. Installing MikTex
 
@@ -54,8 +55,10 @@ To install MikTex use: <https://miktex.org/download>
 
 During the installation process, you can accept the default options. Ensure that the option to install missing packages on the fly is enabled.
 Once the installation is complete, restart your computer to ensure all changes take effect.
+<br />
 
-### 4. Installing the necessary Julia packages
+
+### 5. Installing the necessary Julia packages
 
 Lastly, you need some Julia packages to be able to create geometry and its corresponding illustrations, namely
 KhepriBase, KhepriTikZ and KhepriIllustrator.
