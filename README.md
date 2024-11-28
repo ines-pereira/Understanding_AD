@@ -70,8 +70,9 @@ In the **practical** folder, you will find a Jupyter file with the commands you 
 
 ## Survey
 
-We would like to ask you to answer a brief survey to assess your knowledge and expectations regarding the workshop.
-This will help us tailor the content for future workshops and to improve the Khepri Illustrator.
+We kindly invite you to participate in a short survey to evaluate the workshop.
+The goal is to understand whether your expectations were met, gather suggestions for improvement, 
+and explore how the proposed Illustrator helped you acquire and apply new knowledge in practice.
 
 Please complete the survey by following this link: <link for workshop>
 
