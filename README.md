@@ -1,7 +1,7 @@
 # Understanding Algorithmic Design: learning algorithms through illustrations
 
 Workshop for Formal Methods in Architecture 2024
-
+<br /><br />
 
 ## Workshop Description
 
@@ -12,6 +12,8 @@ participants will be introduced to an AD tool (Khepri), its programming language
 illustration system coupled to this tool. Then, they will learn basic computational concepts and strategies, 
 applying them in simple pedagogical examples. Lastly, participants will apply the learnt principles in an interactive,
 hands-on session, developing a simple design using the AD tool Khepri and its illustration system.
+<br /><br />
+
 
 ## Installation
 ### 1. Installing the Julia programming language
@@ -64,7 +66,7 @@ Lastly, you need some Julia packages to be able to create geometry and its corre
 KhepriBase, KhepriTikZ and KhepriIllustrator.
 
 In the **practical** folder, you will find a Jupyter file with the commands you need to run to install all these packages.
-
+<br /><br />
 
 ## Survey
 
