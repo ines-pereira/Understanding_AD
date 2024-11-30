@@ -74,7 +74,7 @@ We kindly invite you to participate in a short survey to evaluate the workshop.
 The goal is to understand whether your expectations were met, gather suggestions for improvement, 
 and explore how the proposed Illustrator helped you acquire and apply new knowledge in practice.
 
-Please complete the survey by following this link: <link for workshop>
+Please complete the survey by following this link: <https://forms.gle/UGhwBsH9sxPpCZMF8>
 
 Your feedback is invaluable to us, and we appreciate your time in helping us improve the workshop. Thank you!
 
