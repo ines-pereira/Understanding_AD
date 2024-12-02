@@ -56,7 +56,6 @@ You will also need to install MikTek, which is necessary for creating the illust
 To install MikTex use: <https://miktex.org/download>
 
 During the installation process, you can accept the default options. Ensure that the option to install missing packages on the fly is enabled.
-Once the installation is complete, restart your computer to ensure all changes take effect.
 <br /><br />
 
 
