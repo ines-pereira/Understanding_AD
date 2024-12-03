@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="272.755pt" height="272.755pt" viewBox="0 0 272.755 272.755" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 29 L 244 29 L 244 272.753906 L 0 272.753906 Z M 0 29 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 199 0 L 272.753906 0 L 272.753906 74 L 199 74 Z M 199 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 113.386344 0.00071875 C 113.386344 62.621812 62.624625 113.387437 -0.000375 113.387437 C -62.621469 113.387437 -113.387094 62.621812 -113.387094 0.00071875 C -113.387094 -62.624281 -62.621469 -113.386 -0.000375 -113.386 C 62.624625 -113.386 113.386344 -62.624281 113.386344 0.00071875 Z M 113.386344 0.00071875 " transform="matrix(1,0,0,-1,118.766,153.989)"/>
+</g>
+<path style="fill:none;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 136.870719 80.1765 C 136.870719 111.489 111.487906 136.867906 80.175406 136.867906 C 48.862906 136.867906 23.484 111.489 23.484 80.1765 C 23.484 48.864 48.862906 23.481187 80.175406 23.481187 C 111.487906 23.481187 136.870719 48.864 136.870719 80.1765 Z M 136.870719 80.1765 " transform="matrix(1,0,0,-1,118.766,153.989)"/>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style="fill:none;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 148.612906 120.262437 C 148.612906 135.918687 135.9215 148.610094 120.26525 148.610094 C 104.609 148.610094 91.917594 135.918687 91.917594 120.262437 C 91.917594 104.610094 104.609 91.918687 120.26525 91.918687 C 135.9215 91.918687 148.612906 104.610094 148.612906 120.262437 Z M 148.612906 120.262437 " transform="matrix(1,0,0,-1,118.766,153.989)"/>
+</g>
+</g>
+</svg>

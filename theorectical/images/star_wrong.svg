@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="768" viewBox="0 0 177.112 142.131">
+<defs>
+<clipPath id="clip-1732614517322011--0">
+<path clip-rule="nonzero" d="M 1 88 L 98 88 L 98 141.265625 L 1 141.265625 Z M 1 88 "/>
+</clipPath>
+<clipPath id="clip-1732614517322011--1">
+<path clip-rule="nonzero" d="M 1 79 L 98 79 L 98 141.265625 L 1 141.265625 Z M 1 79 "/>
+</clipPath>
+<clipPath id="clip-1732614517322011--2">
+<path clip-rule="nonzero" d="M 85 88 L 176.132812 88 L 176.132812 141.265625 L 85 141.265625 Z M 85 88 "/>
+</clipPath>
+</defs>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 85.041537 47.247233 L 85.041537 141.735493 L 68.031921 56.695273 Z M 85.041537 47.247233 " transform="matrix(0.993923, 0, 0, -0.993923, 6.889316, 141.06949)"/>
+<g clip-path="url(#clip-1732614517322011--0)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 85.041537 47.247233 L 0.00131654 -0.000827374 L 85.041537 28.347223 Z M 85.041537 47.247233 " transform="matrix(0.993923, 0, 0, -0.993923, 6.889316, 141.06949)"/>
+</g>
+<g clip-path="url(#clip-1732614517322011--1)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 85.041537 47.247233 L 68.031921 56.695273 L 0.00131654 -0.000827374 Z M 85.041537 47.247233 " transform="matrix(0.993923, 0, 0, -0.993923, 6.889316, 141.06949)"/>
+</g>
+<g clip-path="url(#clip-1732614517322011--2)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 85.041537 47.247233 L 85.041537 28.347223 L 170.081757 -0.000827374 Z M 85.041537 47.247233 " transform="matrix(0.993923, 0, 0, -0.993923, 6.889316, 141.06949)"/>
+</g>
+</svg>
