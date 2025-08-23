@@ -1,6 +1,6 @@
 # Understanding Algorithmic Design: learning algorithms through illustrations
 
-Workshop for Formal Methods in Architecture 2024
+Workshop for eCAADe 2025
 <br /><br />
 
 ## Workshop Description
@@ -20,7 +20,7 @@ hands-on session, developing a simple design using the AD tool Khepri and its il
  
 First, install Julia: <https://julialang.org/downloads/>
 
-More specifically, use: <https://julialang-s3.julialang.org/bin/winnt/x64/1.11/julia-1.11.1-win64.exe>
+More specifically, use: <https://julialang-s3.julialang.org/bin/winnt/x64/1.11/julia-1.11.6-win64.exe>
 
 We recommend that you accept the default installation options.
 
@@ -62,9 +62,9 @@ During the installation process, you can accept the default options. Ensure that
 ### 5. Installing the necessary Julia packages
 
 Lastly, you need some Julia packages to be able to create geometry and its corresponding illustrations, namely
-KhepriBase, KhepriTikZ and KhepriIllustrator.
+IJulia, KhepriTikZ and KhepriIllustrator.
 
-In the **practical** folder, you will find a Jupyter file with the commands you need to run to install all these packages.
+In the **02_practical** folder, you will find a Julia file ([`package_installation.jl`](./02_practical/package_installation.jl)) with the commands you need to run to install all these packages.
 <br /><br />
 
 ## Survey
