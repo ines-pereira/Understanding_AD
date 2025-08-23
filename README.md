@@ -24,7 +24,7 @@ More specifically, use: <https://julialang-s3.julialang.org/bin/winnt/x64/1.11/j
 
 We recommend that you accept the default installation options.
 
-In the Select Addition Tasks step, do not forget to select the Add Julia to PATH option. Failing to do so will force you to manually add the path in VScode later on.
+**Note**: In the **Select Addition Tasks** step, do not forget to **select** the **Add Julia to PATH** option. Failing to do so will force you to manually add the path in VScode later on.
 <br /><br />
  
 ### 2. Installing the Visual Studio Code Programming Environment
@@ -33,38 +33,39 @@ Second, install Visual Studio Code: <https://code.visualstudio.com/>
 
 More specifically, use: <https://code.visualstudio.com/Download#>
 
-Again, we recommend that you accept the default installation options.
+Again, we recommend that you **accept the default installation options**.
 <br /><br />
 
 ### 3. Installing the Julia and Jupyter Extensions
 
-Third, launch Visual Studio Code and install the Julia and Jupyter extensions.
+Third, launch Visual Studio Code and install the Julia and Jupyter extensions:
 
-In Visual Studio Code, click the View menu in the top bar, and choose Extensions (Ctrl+Shift+X).
+- In Visual Studio Code, click the **View** menu in the top bar, and choose **Extensions** OR use the keyboard shortcut **Ctrl+Shift+X**.
 
-In the extensions pane, type Julia into the search engine (on top) and select the Julia extension by clicking the install button. Visual Studio Code will install it.
-Repeat this step for the Jupyter extension.
+- In the extensions pane, type **Julia** into the search engine (on top) and select the **Julia extension** by clicking the *install* button. Visual Studio Code will install it.
 
-When the installation completes, restart Visual Studio Code.
+- Repeat the previous step for the **Jupyter extension**.
+
+When the installation completes, **restart** Visual Studio Code.
 <br /><br />
 
 
 ### 4. Installing MikTex
 
-You will also need to install MikTek, which is necessary for creating the illustrations.
+To create the illustrations, you will need to install **MikTek**: <https://miktex.org/download>
 
-To install MikTex use: <https://miktex.org/download>
+During the installation process, you can accept the default options. 
 
-During the installation process, you can accept the default options. Ensure that the option to install missing packages on the fly is enabled.
+**Note**: Ensure that the option to **install missing packages on the fly** is enabled.
 <br /><br />
 
 
 ### 5. Installing the necessary Julia packages
 
-Lastly, you need some Julia packages to be able to create geometry and its corresponding illustrations, namely
-IJulia, KhepriTikZ and KhepriIllustrator.
+Lastly, you will need the following Julia packages to create geometry and corresponding illustrations:
+**IJulia**, **KhepriTikZ** and **KhepriIllustrator**.
 
-In the **02_practical** folder, you will find a Julia file ([`package_installation.jl`](./02_practical/package_installation.jl)) with the commands you need to run to install all these packages.
+The instructions to run and install these packages are available in the **02_practical** folder, in Julia file ([`package_installation.jl`](./02_practical/package_installation.jl)).
 <br /><br />
 
 ## Survey
