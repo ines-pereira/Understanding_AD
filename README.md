@@ -65,7 +65,7 @@ During the installation process, you can accept the default options.
 Lastly, you will need the following Julia packages to create geometry and corresponding illustrations:
 **IJulia**, **KhepriTikZ** and **KhepriIllustrator**.
 
-The instructions to run and install these packages are available in the **02_practical** folder, in Julia file ([`package_installation.jl`](./02_practical/package_installation.jl)).
+The instructions to install and run these packages are available in the **02_practical** folder, in Julia file [`package_installation.jl`](./02_practical/package_installation.jl).
 <br /><br />
 
 ## Survey
