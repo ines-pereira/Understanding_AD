@@ -6,5 +6,5 @@ the necessary Julia packages for the workshop.
 using Pkg
 
 Pkg.add("IJulia")
-Pkg.add(url="https://github.com/aptmcl/KhepriTikZ.jl")
-Pkg.add(url="https://github.com/aptmcl/KhepriIllustrator.jl")
+Pkg.add("KhepriTikZ.jl")
+Pkg.add("KhepriIllustrator.jl")
